@@ -61,9 +61,13 @@ python3
 >>>import sophon
 ```
 
+
+
+
+
+
+# FQA
 ***
-
-
 
 **1. 使用scp从控制板直接传输文件，再使用ssh进入算力板操作。在算力板中运行模型报错'ModuleNotFoundError: No module named 'sophon.sail''**
 
