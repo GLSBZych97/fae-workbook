@@ -1,4 +1,4 @@
-# 一、环境搭建
+# 一、算法
 
   &emsp;&emsp;对于SoC平台，安装好SophonSDK(>=v22.09.02)后内部已经集成了相应的libsophon、sophon-opencv和sophon-ffmpeg运行库包，位于/opt/sophon/下，可直接用于运行环境。我们需要在x86主机上交叉编译程序，使之能够在SoC平台运行。
 
